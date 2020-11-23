@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="IT"/>
+  <body>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Ricerca per la transizione energetica
+Ci prepariamo al futuro low-carbon investendo in ricerca e sviluppo.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Research for the energy transition
+We are preparing for a low-carbon future by investing in research and development.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>di Eni Staff
+07 NOVEMBRE 2020
+10 min di lettura
+Una sfida
+Produrre energia al più basso impatto carbonico è la sfida che oggi ogni azienda energetica è chiamata a cogliere e così stiamo facendo anche in Eni.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>by Eni Staff
+21 MAY 2020
+10 min read
+A challenge
+Producing energy with the lowest carbon footprint is the challenge that every energy company is facing today and it’s a challenge that we are taking up at Eni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Per vincerla, abbiamo scelto di investire in una cosa che sappiamo fare bene: la ricerca scientifica e tecnologica.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>To meet it, we have chosen to invest in something that we do well: scientific and technological research.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Nel 2019 le spese totali in R&amp;S sono state di 194 milioni di euro, di cui 102,4 milioni di euro dedicati al percorso di decarbonizzazione e all’economia circolare.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In 2019 total R&amp;S costs were 194 million euros, of which 102.4 million euros was spent on the path of decarbonization and the circular economy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Nell’ambito della R&amp;D attualmente lavorano 1500 persone di Eni, operano 50 impianti pilota e sono in corso collaborazioni con 70 Università e Centri Ricerche.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>There are currently 1,500 Eni people and 50 pilot plants working on R&amp;D, and ongoing collaborations in the field with 70 universities and research centres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il nostro impegno nella decarbonizzazione e nella transizione energetica si concretizza anche nelle partnership che abbiamo stretto con Oil and Gas Climate Initiative (OGCI), Commonwealth Fusion Systems LLC (CFS), Divertor Tokamak Test (DTT) e con le principali università e istituzioni di ricerca, fra cui ENEA, CNR e MIT.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Our commitment to decarbonization and the energy transition also takes the form of partnerships, which we have formed with the Oil and Gas Climate Initiative (OGCI), Commonwealth Fusion Systems LLC (CFS), Divertor Tokamak Test (DTT) and top universities and research institutions like ENEA, CNR and MIT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>R&amp;S in neutralità carbonica ed economia circolare nel 2019
+24,4 mlneuro
+rinnovabili
+14,3 mlneuro
+chimica verde
+14,1 mlneuro
+valorizzazione del gas
+102,4
+mln euro
+R&amp;S in neutralità carbonica ed economia circolare
+33 mlneuro
+riduzione delle emissioni
+8,1mln
+bioraffinazione
+5,2 mlneuro
+ambiente
+3,3 mlneuro
+efficienza energetica
+Partnership per la ricerca
+La scienza ha bisogno di relazioni perché di esse si nutre il nostro cervello.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>R&amp;D in carbon neutrality and the circular economy in 2019
+24.4 mlneuros
+renewables
+14.3 mlneuros
+green chemistry
+14.1 mlneuros
+gas valorization
+102.4
+mln euros
+R&amp;D in carbon neutrality and the circular economy
+33 mlneuros
+emissions reduction
+8.1mln
+biorefinery
+5.2 mlneuros
+environment
+3.3 mlneuros
+energy efficiency
+Partnerships for research
+Science needs relationships because they enrich the research process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Per questo continuiamo a rafforzare la nostra rete di collaborazioni con le più importanti realtà scientifiche nazionali e internazionali.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>This is why we continue to build our collaboration network with the most important national and international scientific bodies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>A marzo 2018 abbiamo sottoscritto nuovi accordi con Commonwealth Fusion Systems (CFS) e Massachusetts Institute of Technology (MIT) per potenziare lo sviluppo industriale della fusione magnetica: una fonte di energia sicura, sostenibile, praticamente inesauribile e senza alcuna emissione di inquinanti né scarti di lungo termine.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In March 2018, we signed new agreements with Commonwealth Fusion Systems (CFS) and the Massachusetts Institute of Technology (MIT) to enhance the industrial development of magnetic fusion: a safe, sustainable, practically inexhaustible source of energy, which produces no pollutants or long-term waste.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>A gennaio 2020, inoltre, abbiamo sottoscritto un’intesa con la Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile (ENEA) per realizzare un grande polo scientifico-tecnologico sulla fusione DTT (Divertor Tokamak Test), che verrà realizzato nel Centro Ricerche ENEA di Frascati (Roma) dalla società DTT Scarl, di cui Eni avrà il 25%.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In January 2020, moreover, we signed an agreement with the National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA) to establish a large scientific-technology hub for DTT (Divertor Tokamak Test) fusion, which will be set up in the ENEA Research Centre in Frascati (Rome) by the DTT Scarl company, in which Eni will hold a 25% interest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Per moltiplicare l’accesso a tecnologie emergenti di grande impatto, inoltre, abbiamo adottato un approccio di Open Innovation attraverso Eni Next e in OGCI-Climate Investments.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>To increase access to high impact emerging technologies, we have also adopted an Open Innovation approach through Eni Next and with OGCI-Climate Investments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Grazie a queste collaborazioni vogliamo continuare a sviluppare il nostro network con università, centri di ricerca, start-up, imprese hi-tech e tutte le realtà che stanno preparando il futuro energetico low-carbon.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>These collaborations will enable us to continue developing our network with universities, research centres, start-ups, hi-tech companies and bodies that are preparing for a low-carbon energy future.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Al tempo stesso, continueremo a investire in iniziative di venture capital e di sviluppo e deployment di tecnologie disruptive, con un focus su Economia Circolare, Decarbonizzazione ed Energie Rinnovabili.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>At the same time, we are continuing to invest in venture capital initiatives and the development and deployment of disruptive technologies, with a focus on Circular Economy, Decarbonization and Renewable energy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Nel corso del 2018, infine, abbiamo siglato un Memorandum of Understanding (MOU) con il Consiglio Nazionale per le Ricerche (CNR) per realizzare un programma di studio in quattro aree ad alto interesse scientifico e strategico: fusione magnetica, acqua, agricoltura ed ecosistema artico.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Finally, in 2018 we signed a Memorandum of Understanding (MOU) with the National Research Council (CNR) to carry out a study programme in four areas of high scientific and strategic interest: magnetic fusion, water, agriculture and the Arctic ecosystem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Le attività di ricerca sono svolte in 4 centri di ricerca congiunti nell’Italia Meridionale: Gela, Metaponto, Portici e Lecce, con un impegno economico complessivo di oltre 20 milioni di euro per una durata di cinque anni.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Research activities are carried out in 4 joint research centres in Southern Italy: Gela, Metaponto, Portici and Lecce, with an overall economic commitment of over 20 million euros over five years.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Tecnologie per la decarbonizzazione
+Transizione energetica</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Technology for decarbonization
+The energy transition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il gas naturale rimane al centro della nostra strategia per sostenere la transizione energetica.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Natural gas remains at the heart of our strategy to support the energy transition.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Con il suo basso impatto carbonico, può sostituire le fonti più inquinanti nel periodo che accompagna la conversione del sistema energetico verso le rinnovabili.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>With its low carbon impact, it can be used to replace more polluting sources during the period of time when the energy system is being converted to renewables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Attorno a questa risorsa stiamo sviluppando impianti pilota e dimostrativi che impiegano le tecnologie che abbiamo sviluppato finora.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>We are developing gas pilot and demonstration plants that make use of the technology we have developed so far.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Un esempio è il nostro sistema per la trasformazione del metano in metanolo attraverso piccoli impianti anche off-shore o floating, in modo da poter sfruttare in modo utile quantità marginali di gas naturale altrimenti destinate al flaring.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>For example, our system that transforms methane into methanol in small plants that can be located off-shore or floating, allowing small quantities of natural gas to be used which would otherwise destined for flaring.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Dal 2015, inoltre, abbiamo istituito il Programma Energy Transition, focalizzato sullo sviluppo di tecnologie low carbon e in particolare sulla filiera del metanolo e sull’utilizzo della CO2.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In addition, in 2015, we established the Energy Transition Programme focused on developing low carbon technologies, in particular the methanol chain and the use of CO2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>In particolare, il programma si concentra sulle tecnologie a valle della produzione di gas naturale sviluppando tre filoni principali di ricerca e sviluppo:</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In particular, the programme focuses on the downstream technologies of natural gas production by developing three main lines of research and development:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>conversione e valorizzazione dell’idrogeno solforato (H2S)
+valorizzazione del gas naturale e conversione del metano in liquidi per facilitare il suo trasporto e utilizzo
+gestione e utilizzo della CO2 per la riduzione delle emissioni climalteranti.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>●    conversion and enhancement of hydrogen sulphide (H2S)
+●    enhancement of natural gas and conversion of methane into liquid to facilitate its transport and use
+●    management and use of CO2 for the reduction of climate-changing emissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Energie rinnovabili
+Nel campo delle energie rinnovabili stiamo sviluppando tecnologie innovative che possono essere facilmente integrate nelle nostre attività Upstream e Downstream, in particolare stiamo sviluppando impianti solari di nuova generazione.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Renewable energies
+In the field of renewable energy we are developing innovative technologies that can be easily integrated into our Upstream and Downstream activities, in particular new generation solar plant systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Esempi significativi dei nostri risultati in questo ambito sono il solare termodinamico a concentrazione (CSP),il fotovoltaico organico (OPV)  e i concentratori solari luminescenti (LSC).</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Some of our important results in this area include concentrated solar power (CSP), organic photovoltaic (OPV) and luminescent solar concentrators (LSC).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Con il deployment del CSP potremo produrre vapore per alimentare impianti industriali, con l’installazione di moduli dimostrativi OPV potremo testare un nuovo sistema per fornire elettricità a ulteriori sensori di rilevamento da collocare in zone di impianti industriali che ne erano prive, mentre con la tecnologia Eni Ray Plus® alla base degli LCS si possono già realizzare finestre intelligenti (smart windows) che producono elettricità e migliorano la luminosità naturale degli ambienti.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>With the deployment of CSP we will be able to produce steam to power industrial plants, the installation of OPV demonstration modules will allow us to test a new system to supply electricity to additional detector sensors to be placed in areas of industrial plants which previously didn't have any, while with the LCS Eni Ray Plus® technology we can already build smart windows (smart windows) that produce electricity and improve the natural brightness of rooms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Sempre nel mondo delle rinnovabili, un ambito in cui stiamo investendo è la produzione di energia elettrica dal moto ondoso, per il quale abbiamo sviluppato la tecnologia Inertial Sea Wave Converter (ISWEC) insieme al Politecnico di Torino (PoliTO) e allo spin-off Wave for Energy S.r.l. : una dimostrazione delle potenzialità del nostro approccio di open innovation.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Still in the area of renewables, we are investing in the production of wave energy and we have developed the Inertial Sea Wave Converter (ISWEC) technology together with the Polytechnic of Turin (PoliTO) and spin-off Wave for Energy Srl, demonstrating the potential of our open innovation approach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Semplice ed evoluto, ISWEC è un sistema galleggiante che trasforma il movimento delle onde marine in elettricità, per alimentare impianti offshore o piccole comunità costiere.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Simple and advanced, ISWEC is a floating system that transforms the movement of sea waves into electricity, to power offshore plants or small coastal communities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Un impianto pilota è già attivo a Ravenna, collegato alla piattaforma PC80 e integrato in un sistema ibrido smart grid unico al mondo composto da fotovoltaico e sistema di stoccaggio energetico.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>A pilot plant is already active in Ravenna, connected to the PC80 platform and integrated with a unique smart grid hybrid system made up of photovoltaics and an energy storage system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Superando ogni aspettativa, questa prima applicazione ha già raggiunto un picco di potenza di oltre 51 kW.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Exceeding all expectations, this first application of the technology has already reached a power peak of over 51 kW.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Inoltre, in collaborazione con Ocean Power Technologies (OPT), abbiamo applicato su scala pilota, sempre nell’offshore di Ravenna, il PowerBuoy: una boa la cui oscillazione provocata dal moto ondoso aziona una turbina collegata a un generatore elettrico.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In addition, in collaboration with Ocean Power Technologies (OPT), in the Ravenna offshore we have also begun a pilot application of the PowerBuoy: a buoy which oscillates with the wave motion and drives a turbine connected to an electric generator.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Bio-refinery e biofissazione della CO2</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Bio-refinery and carbon dioxide biofixation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>La chimica è il linguaggio dell’Universo e sta a noi decidere come utilizzarla.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Chemistry is the language of the universe and it is up to us to decide how to use it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Esaurita la fase della produzione massificata a forte impatto ambientale e sociale, oggi l’industria chimica ha cambiato pelle per reinventare processi e prodotti secondo i principi della sostenibilità e dell’economia circolare.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>The phase of mass production with its strong environmental and social impact has finished and today the chemical industry has reinvented itself with processes and products which meet the requirements of sustainability and the circular economy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Considerando questa riconversione assolutamente strategica, abbiamo ridefinito i nostri cicli industriali orientandoli verso prodotti a origine biologica.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>We consider this change to be strategic and have redefined our industrial cycles directing them towards products of biological origin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Gli esempi più significativi del nostro impegno in questo ambito sono:</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>The most significant examples of our commitment in this area are:
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>l’impianto pilota Waste to Fuel nella bioraffineria di Gela
+l’impianto pilota per la biofissazione di CO2a Ragusa
+A Gela, Eni Rewind ha realizzato un esempio di tecnologia Waste to Fuel che, attraverso un processo di termoliquefazione, trasforma la frazione organica dei rifiuti solidi urbani (FORSU) in bio olio, consentendo anche di recuperare e rendere disponibile per l’agricoltura il 70% dell’acqua contenuta nella carica biologica di partenza.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>●    the Waste to Fuel pilot plant at the Gela biorefinery
+●    the pilot plant for CO2 biofixation in Ragusa
+In Gela, Eni Rewind has established an example of Waste to Fuel technology which, through a process of thermal liquefaction, transforms the organic fraction of municipal solid waste (OFMSW) into bio oil, allowing the recovery and availability of 70% of the water contained in the initial biological matter for agriculture.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>L’impianto pilota è in funzione nelle aree della bioraffineria dove viene già prodotto biocarburante da materie prime di origine biologica con la tecnologia EcofiningTM.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>The pilot plant operates in the areas of the biorefinery where biofuel is already produced from raw materials of biological origin with EcofiningTM technology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>In prospettiva, contiamo di realizzare altri esempi della tecnologia Waste to Fuel su scala industriale in Italia e all’estero.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Looking ahead, we plan to set-up other examples of Waste to Fuel technology on an industrial scale in Italy and abroad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>La messa in pratica del progetto rappresenta per tutti noi un passo significativo verso la produzione di bio-carburanti di seconda generazione, a minore impatto ambientale, attraverso processi sostenibili e tecnologie legate al riuso delle risorse.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>This project is a significant step towards the production of second generation bio-fuels for us, with lower environmental impact, through sustainable processes and technologies related to the reuse of resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Nel Centro Ricerche per le Energie Rinnovabili e l’Ambiente di Novara, in collaborazione con il Politecnico di Torino e con una rete di start-up italiane, abbiamo avviato un impianto pilota per fissare la CO₂ attraverso la coltivazione di microalghe alimentate da luce artificiale.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>In the Research Centre for Renewable Energy and the Environment in Novara, in collaboration with the Polytechnic University of Turin and a network of Italian start-ups, we have launched a pilot plant to fix CO₂ through the cultivation of microalgae powered by artificial light.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il sistema utilizza fotobioreattori multilayer in cui le alghe sono alimentate da speciali lampade a LED che sfruttano lunghezze d’onda ottimizzate per la fotosintesi, in modo da massimizzare il processo di crescita.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>The system uses multilayer photobioreactors in which the algae are powered by special LED lamps that use wavelengths optimised for photosynthesis in order to maximise the growth process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>La biomassa vegetale prodotta viene poi raccolta, essiccata e trasformata in una farina algale che può essere trasformata in bio-olio dal quale, a sua volta, si può ottenere biodiesel.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>The plant biomass produced is then collected, dried and transformed into an algal meal that can be transformed into bio-oil from which, in turn, biodiesel can be obtained.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Altri impieghi della farina algale trovano una richiesta nei mercati agroindustriali, alimentari e/o nutraceutici.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Other uses of algal meal are in demand in agro-industrial, food and/or nutraceutical markets.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>L’acqua rimasta dopo l’essiccazione della biomassa, invece, può essere resa disponibile per altri utilizzi.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>The water remaining after drying the biomass can be made available for other uses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Avviato a novembre 2020, il nuovo impianto pilota di Novara ha raggiunto dei dati di produttività giornaliera di biomassa molto promettenti che, proiettati su impianti di scala industriale, potrebbero consentire di produrre fino a 500 tonnellate di biomassa e di intrappolare circa 1000 tonnellate l’anno di CO₂ per ogni ettaro di superficie.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Launched in November 2020, the new pilot plant in Novara has achieved very promising daily biomass productivity data that, projected on plants of industrial scale, could produce up to 500 tonnes of biomass and trap about 1,000 tonnes per year of CO₂ per hectare of land.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>In precedenza, a Ragusa, abbiamo realizzato un primo impianto pilota di bio-fissazione della CO2 attraverso microalghe che sfrutta la luce solare, la quale viene concentrata e veicolata attraverso fibre ottiche in fotobioreattori cilindrici dove le microalghe crescono in acqua arricchita della CO2 separata dal gas proveniente dai pozzi del vicino Centro Oli.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Previously, in Ragusa, we have set-up a first pilot plant for CO2 biofixation with microalgae using sunlight, which is concentrated and sent through optical fibres in cylindrical photobioreactors where microalgae is being grown in water enriched with CO2 separated out from the gas from the wells of the nearby Oil Plant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Anche in questo caso, la componente algale viene essiccata e trasformata in farina da cui si estrae un olio che può essere destinato alle bioraffinerie al posto della carica attuale o come additivo di prodotti ad alto valore aggiunto (nutraceutica), mentre l’acqua di processo viene recuperata e purificata.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>Again, the algae component is dried and made into flour from which an oil is extracted which can be used to supply biorefineries or as an additive for products with high added value (nutraceuticals), while the process water is recovered and purified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Se utilizzata per alimentare la bioraffineria, la biomassa da microalghe è classificata come carica “advanced” secondo la Direttiva UE RED II, in quanto non è in nessun modo in competizione con coltivazioni a fini alimentari.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T183912Z">
+        <seg>When it is used to feed the biorefinery, biomass from microalgae is classified as an "advanced" filler according to the EU RED II Directive, because it isn't in competition with crops for food purposes in any way.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
