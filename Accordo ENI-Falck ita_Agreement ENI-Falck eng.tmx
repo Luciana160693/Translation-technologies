@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="IT"/>
+  <body>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>INCONTRI E ACCORDI | SOLUZIONI AMBIENTALI
+Eni e Falck Renewables siglano un accordo strategico per lo sviluppo congiunto dinuovi progetti da fonte rinnovabile negli Stati Uniti
+20 DICEMBRE 2019 - 5:25 PM CET</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>BUSINESS MEETINGS AND AGREEMENTS | ENVIRONMENTAL SERVICES
+Eni and Falck Renewables sign strategic agreement for joint development of new renewableprojects in United States
+20 DECEMBER 2019 - 5:25 PM CET</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Eni acquista il 49% degli impianti operativi di Falck Renewables in USA</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Eni acquires 49% of Falck Renewables’ US operating assets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Eni e Falck Renewables hanno firmato un accordo strategico per lo sviluppo congiunto di progetti di energia rinnovabile negli Stati Uniti, che prevede la creazione di una piattaforma paritetica tra Eni New Energy US e Falck Renewables North America Inc.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Eni and Falck Renewables have signed a strategic agreement for the joint development of renewable energy projects in the United States. The agreement involves the creation of a venture owned 50% by Eni New Energy US Inc. and 50% by Falck Renewables North America Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>per lo sviluppo, la costruzione e il finanziamento di nuovi progetti da fonte rinnovabile quali solari fotovoltaici, eolici onshore e di stoccaggio.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>for the development, construction and financing of new solar photovoltaics, wind onshore and energy storage projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Contestualmente, secondo i termini dell’accordo, FRNA cederà a ENE US il 49% delle quote di partecipazione negli impianti attualmente in esercizio negli Stati Uniti.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Under the terms of the agreement, FRNA will simultaneously sell ENE US 49% of its ownership interests in the plants currently in operation in the United States.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>San Donato Milanese e Milano, 20 dicembre 2019 – Eni e Falck Renewables hanno firmato un accordo strategico per lo sviluppo congiunto di progetti di energia rinnovabile negli Stati Uniti, che prevede la creazione di una piattaforma paritetica tra Eni New Energy US Inc.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>San Donato Milanese and Milan, December 20, 2019 – Eni and Falck Renewables have signed a strategic agreement for the joint development of renewable energy projects in the United States. The agreement involves the creation of a venture owned 50% by Eni New Energy US Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>(“ENE US”) e Falck Renewables North America Inc.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>(“ENE US”) and 50% by Falck Renewables North America Inc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>(“FRNA”) per lo sviluppo, la costruzione e il finanziamento di nuovi progetti da fonte rinnovabile quali solari fotovoltaici, eolici onshore e di stoccaggio.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>(“FRNA”) for the development, construction and financing of new solar photovoltaics, wind onshore and energy storage projects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Contestualmente, secondo i termini dell’accordo, FRNA cederà a ENE US il 49% delle quote di partecipazione negli impianti attualmente in esercizio negli Stati Uniti.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Under the terms of the agreement, FRNA will simultaneously sell ENE US 49% of its ownership interests in the plants currently in operation in the United States.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>L’operazione consentirà ai partner di:</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The deal enables the two partners to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Creare una significativa piattaforma di sviluppo di nuovi progetti da fonte rinnovabile in un mercato evoluto e con importanti aspettative di crescita come quello degli Stati Uniti.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>establish a significant platform for the development of new projects from renewable sources in an evolved US market, which offers significant growth prospects.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Agire attraverso una nuova società in grado di coprire le fasi di sviluppo, costruzione, finanziamento di nuovi progetti unendo il know-howdi Falck Renewables negli asset rinnovabili con le competenze tecnologiche e finanziarie di Eni.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>operate through a new company that will cover the phases of development, construction and financing of new projects combining Falck Renewables’ know-how in renewable assets together with Eni's technological and financial capabilities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Accelerare il processo di crescita di Eni e Falck Renewables nel paese e contribuire al raggiungimento dei rispettivi obiettivi in termini di capacità installata e generazione di energia verde.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>accelerate the growth of Eni and Falck Renewables in the US and help reach their respective goals in terms of installed capacity and green energy generation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>La nuova piattaforma1 basata su una governance congiunta ha l’obiettivo di sviluppare, almeno 1 GW di progetti entro la fine del 2023.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The venture1 will have shared governance and will be dedicated to develop at least 1 GW in projects by the end of 2023.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>ENE US e FRNA avranno a diposizione varie opzioni per poter acquisire dalla società costituita i progetti che potranno essere realizzati e consolidati integralmente o da ENE US (al 100%) o da FRNA (sia al 100% sia con una quota di minoranza di ENE US al 49%).</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>ENE US and FRNA will have various options to acquire projects from the venture, either consolidated line-by-line by ENE US (100%) or by FRNA (100% or with a minority 49% stake for ENE US).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il finanziamento della società di sviluppo congiunto e i suoi proventi saranno divisi pariteticamente tra i soci.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Funding for the joint development company and its profits will be split equally between the owners.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>La cessione a ENE US del 49%2 delle quote di partecipazione degli asset esistenti di FRNA riguarda un portafoglio complessivo di 112,5 MW, composto da cinque impianti fotovoltaici in esercizio in North Carolina e in Massachusetts, uno dei quali, Middleton (Massachusetts), con stoccaggio di energia di 6,6 MWh.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The sale to ENE US of 49%2 of FRNA's existing assets pertains to a 112.5 MW portfolio comprising five photovoltaic plants in operation in North Carolina and Massachusetts, one of which, Middleton (Massachusetts) has an energy storage facility of 6.6 MWh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Tali impianti continueranno a essere gestiti, controllati e consolidati da FRNA, che ne deterrà il 51%.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>These plants will continue to be operated, controlled and consolidated by FRNA, which will own 51% of them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il valore totale pagato da ENE US a FRNA sarà pari a circa 70 milioni di dollari al closing, comprensivo di un controvalore di uno stock di pannelli solari pari a circa 12,7 milioni di dollari, e sarà soggetto ad aggiustamento in linea con la prassi di mercato.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The total value paid by ENE US to FRNA will be approximately 70 million USD at closing, including a solar panel stock valued approximately 12.7 million USD, and this will be adjusted in line with market practice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il closing è soggetto ad alcune condizioni sospensive ed è atteso entro il primo trimestre 2020.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Closing is subject to certain conditions precedent and is expected by the first quarter of 2020.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Luca Cosentino, Executive Vice President di Energy Solutions in Eni, ha commentato: “L’accordo con Falck Renewables apre per Eni un nuovo mercato, caratterizzato da basso profilo di rischio ed elevata fluidità, dove intendiamo crescere molto rapidamente.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Luca Cosentino, Executive Vice President of Energy Solutions at Eni, commented: “For Eni, the agreement with Falck Renewables opens up a new, low-risk and highly fluid market in which we are aiming to grow very quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Questa collaborazione potrà contare sulle competenze e sulla riconosciuta esperienza di Falck Renewables, consentendo ad Eni di accelerare i piani di crescita di capacità da fonti rinnovabili e ponendo le basi per il raggiungimento dei nostri obiettivi di decarbonizzazione.”</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>This partnership will benefit from the knowledge and renowned experience of Falck Renewables, enabling Eni to accelerate its plans to increase its renewable energy capacity and laying the foundations for achieving our decarbonization objectives.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>“Siamo entusiasti di iniziare a collaborare in maniera mirata con Eni che, come noi, ha l’obiettivo di contribuire alla transizione energetica e di essere un attore di riferimento nel settore delle rinnovabili.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>“We are excited to start working in a targeted way with Eni, which like us wants to contribute to the energy transition and be a key player in the renewables sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Siamo estremamente interessati a mettere a fattor comune competenze e ambizioni delle due aziende creando una società di sviluppo agile, focalizzata e con obiettivi chiari in uno dei mercati più dinamici e prospettici a livello mondiale”, ha commentato Toni Volpe, Amministratore Delegato di Falck Renewables.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>We are really interested in bringing together the two companies’ capabilities and ambitions to create an agile and focused development company, with clear objectives in one of the world's most dynamic and high-potential markets,” said Toni Volpe, CEO of Falck Renewables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Le parti saranno reciprocamente esclusive in relazione a progetti superiori a 5 MWdc negli Stati Uniti.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The Parties will be exclusive to each other with respect to projects in the US larger than 5 MWdc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il perimetro delle attività oggetto di parziale cessione ha realizzato nel 2018 (al 100%) ricavi per 11,5 milioni di dollari e un EBIT pari a 2,8 milioni di dollari, con una Posizione Finanziaria Netta di fine periodo pari a 37,2 milioni di dollari.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The scope of assets to be partially transferred recorded 2018 revenues (at 100%) of11.5M USD and EBIT of 2.8M USD, with a period-end Net Financial Position of 37.2 USD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Con riferimento agli impianti operativi, l’accordo prevede meccanismi di call-option a favore di FRNA in caso di stallo e di lock-up a 5 anni dal closing</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>With reference to the operating plants, the deal also envisages call option mechanisms in favour of FRNA in the event of deadlock and lock-up within five years of closing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Eni è una società dell’energia con oltre 30.000 dipendenti in 67 Paesi del mondo.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Eni is an energy company with around 31,000 employees in 67 countries globally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Svolge attività di esplorazione, sviluppo ed estrazione di olio e gas naturale in 43 Paesi, è attiva nel trading di olio, gas naturale, GNL ed energia elettrica in 28 Paesi e commercializza carburanti e lubrificanti in 33 Paesi.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>It operates in the oil and natural gas exploration, development and extraction industries in 43 countries, trades in the oil, natural gas, LNG and electricity sectors in 28 countries and sells fuels and lubricants in 33 countries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Attraverso raffinerie e impianti chimici, Eni produce greggi e semilavorati per la produzione di carburanti, biocarburanti, lubrificanti e prodotti chimici che vengono distribuiti sia al mercato all’ingrosso sia a quello retail.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>It also produces crude oil and semi-finished products to be used in the production of fuels, biofuels, lubricants and chemicals that are then distributed through either the wholesale or retail market, through various refineries and chemical plants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>L’azienda fornisce il suo contributo alla transizione energetica verso un futuro low-carbon, promuovendo lo sviluppo di energia da fonti rinnovabili grazie all’utilizzo di nuove tecnologie proprie sempre più efficienti e applicando i princìpi dell’economia circolare a tutte le sue attività.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The company is contributing to the energy transition to a low-carbon future, by promoting the development of energy produced from renewable sources. It is doing so by using new and increasingly efficient clean technologies and by applying the principles of the circular economy to all aspects of its activity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Falck Renewables S.p.A., quotata al segmento STAR della Borsa Italiana, e inclusa nel FTSE Italia Mid Cap Index, sviluppa, progetta, costruisce e gestisce impianti di produzione di energia da fonti energetiche rinnovabili con una capacità installata di 1.026 MW (989,5 MW secondo la riclassificazione IFRS 11) nel Regno Unito, Italia, Stati Uniti, Spagna, Francia, generati da fonti eoliche, solari, stoccaggio, WtE e da biomasse.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>Falck Renewables S.p.A., listed on the Italian stock exchange in the STAR segment (“FKR.MI”) and included in the FTSE Italia Mid Cap Index, develops, designs, builds and manages power production plants from renewable sources, with an installed capacity of 1,026 MW (989.5 MW according to the IFRS 11 reclassification) in the United Kingdom, Italy, United States, Spain and France, using wind power, solar power, storage, WtE and biomass technologies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="IT">
+        <seg>Il Gruppo è un player internazionale nella consulenza tecnica per l’energia rinnovabile e nella gestione di asset di terzi, attraverso la propria controllata Vector Cuatro, che fornisce i servizi a clienti per una capacità installata complessiva di circa 2.500 MW, grazie a un’esperienza maturata in più di 40 Paesi.</seg>
+      </tuv>
+      <tuv xml:lang="EN" creationid="OmegaT Aligner" creationdate="20201123T170707Z">
+        <seg>The Group is a global player in the renewable energy technical advisory and asset management services business, through its wholly owned subsidiary Vector Cuatro, providing asset management services to clients accounting for approximately 2,500 MW of installed capacity and with experience in more than 40 countries.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
